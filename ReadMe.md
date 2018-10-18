@@ -1,7 +1,7 @@
 Debugging node js locally with chrome
 
 1. Start node process
-        node --insect app.js
+        node --inspect app.js
 
 2. Open chrome.
         chrome://inspect/
